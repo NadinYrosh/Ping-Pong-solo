@@ -4,6 +4,8 @@
 
 #### By Nadiya Yeroshkina
 
+### [Click here] (http://nadinyrosh.github.io/Ping-Pong-solo/)
+
 ## Description
 
 You can play with numbers and get Ping, Pong or Ping-Pong output's.
