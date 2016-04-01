@@ -1,0 +1,26 @@
+html{
+  background-color: #e6e6e6
+}
+
+.sidebar {
+    background: #8fbc8f;
+    height: 100%;
+}
+
+.col-xs-3 {
+    width: 18%;
+}
+
+.orange-color {
+  color:#f4dfb3
+}
+
+.white-color {
+  color: white;
+}
+
+.header {
+  background: #f4dfb3;
+  padding: 15px;
+  margin-bottom: 20px;
+}
